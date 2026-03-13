@@ -3,7 +3,7 @@
     "port": 6000,
     "user": "MTNfzS5HeshmUaXFqHwYWkk1dapwx4vjzw@lanmain",
     "pass": "x",
-    "threads": 2,
+    "threads": 10,
     "algo": "cwm_minotaurx",
     "clientVersion": "kaosd",
     "reuseWorkersOnDirtyJobs": true,
